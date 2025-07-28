@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71193381-c893-45ca-b639-d4b02e3e629b" name="Changes" comment="git commit -m &quot;Arrays uploding &quot;&#10;git remote add origin https://github.com/palakagarwal16/Java-DSA.git">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/MAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/MAX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/checksort.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2zEjCfEo6ZuP1Ak2l3RJ2zDuUIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Basic.executor": "Run",
+    "Application.MAX.executor": "Run",
+    "Application.arraylinearsearch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ARRAYS/src/BASICMATH.java",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/ARRAYS/src/Main.java",
+    "two.files.diff.last.used.file": "C:/Users/Lenovo/IdeaProjects/ARRAYS/src/BASICMATH.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71193381-c893-45ca-b639-d4b02e3e629b" name="Changes" comment="" />
+      <created>1751303005168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751303005168</updated>
+    </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;Arrays uploding &quot;">
+      <option name="closed" value="true" />
+      <created>1753304053754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753304053754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git commit -m &quot;Arrays uploding &quot;&#10;git remote add origin https://github.com/palakagarwal16/Java-DSA.git">
+      <option name="closed" value="true" />
+      <created>1753304711941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753304711941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;Arrays uploding &quot;" />
+    <MESSAGE value="git commit -m &quot;Arrays uploding &quot;&#10;git remote add origin https://github.com/palakagarwal16/Java-DSA.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;Arrays uploding &quot;&#10;git remote add origin https://github.com/palakagarwal16/Java-DSA.git" />
+  </component>
+</project>
