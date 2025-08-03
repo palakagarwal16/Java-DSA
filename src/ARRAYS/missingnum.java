@@ -1,2 +1,20 @@
-package ARRAYS;public class missingnum {
+package ARRAYS;
+
+public class missingnum {
+    class Solution {
+        public int missingNumber(int[] nums) {
+
+            int n = nums.length;
+            int sum = n*(n+1)/2;
+
+            int actualsum = 0;
+            for (int num : nums) {
+                actualsum += num ;
+            }
+            return sum - actualsum;
+
+
+
+        }
+    }
 }
