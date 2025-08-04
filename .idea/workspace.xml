@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="71193381-c893-45ca-b639-d4b02e3e629b" name="Changes" comment="git commit -m &quot;Arrays uploding &quot;&#10;git remote add origin https://github.com/palakagarwal16/Java-DSA.git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/Checksorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/Checksorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/Removeduplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/Removeduplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/Secondmax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/Secondmax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/intersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/missingnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/missingnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/movezeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/movezeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/rotatebyk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/rotatebyk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/twosum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/onestwice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/onestwice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
