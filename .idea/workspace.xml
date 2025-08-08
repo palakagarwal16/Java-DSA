@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="71193381-c893-45ca-b639-d4b02e3e629b" name="Changes" comment="git commit -m &quot;Arrays uploding &quot;&#10;git remote add origin https://github.com/palakagarwal16/Java-DSA.git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAYS/onestwice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/onestwice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/majority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/majority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/optimaltwosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/optimaltwosum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/reverseint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/reverseint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/sorting012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/sorting012.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
