@@ -20,7 +20,7 @@ I created this repository to:
 ```bash
 Java-DSA/
 │
-├── Arrays/
+├── src/Arrays/STRINGS
 │   ├── LinearSearch.java
 └── More topics coming soon...
 📚 Topics Covered / To Cover
