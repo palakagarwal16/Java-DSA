@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71193381-c893-45ca-b639-d4b02e3e629b" name="Changes" comment="git commit -m &quot;Arrays uploding &quot;&#10;git remote add origin https://github.com/palakagarwal16/Java-DSA.git">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/CycleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/MAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/MAX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAYS/matrixzero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAYS/matrixzero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,31 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Basic.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.Checksorted.executor": "Run",
-    "Application.CycleSort.executor": "Run",
-    "Application.InsertionSort.executor": "Run",
-    "Application.MAX.executor": "Run",
-    "Application.Practice.executor": "Run",
-    "Application.Removeduplicates.executor": "Run",
-    "Application.Secondmax.executor": "Run",
-    "Application.Skipappnotappjle.executor": "Run",
-    "Application.arraylinearsearch.executor": "Run",
-    "Application.basic.executor": "Run",
-    "Application.permutation.executor": "Run",
-    "Application.practice.executor": "Run",
-    "Application.rotatebyk.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ARRAYS/src/BASICMATH.java",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/ARRAYS/src/Main.java",
-    "two.files.diff.last.used.file": "C:/Users/Lenovo/IdeaProjects/ARRAYS/src/BASICMATH.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Checksorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CycleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MAX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Removeduplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Secondmax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Skipappnotappjle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arraylinearsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rotatebyk.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ARRAYS/src/BASICMATH.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ARRAYS/src/Main.java&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ARRAYS/src/BASICMATH.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

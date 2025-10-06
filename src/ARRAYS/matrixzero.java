@@ -1,6 +1,7 @@
 package ARRAYS;
 
-public class matrixzero {
+public class
+matrixzero {
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
